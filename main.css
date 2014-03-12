@@ -1,0 +1,16 @@
+body {
+	background: #E0F8F7;
+	font-family: arial, san-sarif;
+	position: relative;
+	left: 120px;
+	width: 800px;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-left: solid 2px #A4A4A4;
+	border-right: solid 2px #A4A4A4;
+}
+
+html {
+	background: #A9F5F2;
+}
